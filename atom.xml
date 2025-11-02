@@ -8,9 +8,16 @@
     <author>
       <name>Pretend</name>
     </author>
-    <updated>2025-11-01T03:40:23.242Z</updated>
+    <updated>2025-11-02T07:30:39.000Z</updated>
     <category term="博客" />
     <category term="学习笔记" />
+    <entry>
+        <id>http://example.com/2025/11/02/test/</id>
+        <title>test</title>
+        <link rel="alternate" href="http://example.com/2025/11/02/test/"/>
+        <content type="html"></content>
+        <updated>2025-11-02T07:30:39.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2025/11/01/%E5%90%AF%E8%88%AA%E4%B9%8B%E7%AB%A0/</id>
         <title>启航之章</title>
